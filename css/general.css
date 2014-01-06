@@ -4,4 +4,9 @@
 html {
     font-family: sans-serif;
     background-color: #f2fcd6;
+    text-align:center;
+}
+
+ul {
+    list-style-type:none;
 }
